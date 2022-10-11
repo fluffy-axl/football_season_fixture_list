@@ -1,1 +1,3 @@
-# football_season_fixture_list
+# I thought it would be good fun to build out a Premier League football season fixture list in Python - possibly adding more features as I go...  
+
+# I am relatively new to Python (after coding in C for the past 10 months), so - should anybody stumble across this repository, and feel that they have any level of contribution that they would like to make - feel free to get in touch! 
